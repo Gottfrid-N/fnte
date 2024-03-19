@@ -1,0 +1,13 @@
+filename = 'industrial-foregoing-1.20.1-3.5.15.jar'
+name = 'Industrial Foregoing'
+side = 'both'
+
+[download]
+hash = 'db0d74fabe559d1d6a92b590916530b6a1cb0e4d6b25ff93f21cfd598b5c504f18f12106804f7790f9d34d6dafb6cb6e8662edfcf2936392b8f5a68d52c0758d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lWxpUd04/versions/BsvFuXnX/industrial-foregoing-1.20.1-3.5.15.jar'
+
+[update.modrinth]
+mod-id = 'lWxpUd04'
+version = 'BsvFuXnX'

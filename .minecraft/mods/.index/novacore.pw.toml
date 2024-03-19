@@ -1,0 +1,13 @@
+filename = 'novacore-1.20.1-1.0.0-build.3.jar'
+name = 'NovaCore'
+side = 'both'
+
+[download]
+hash = '9bd649055fa00cfdff313224d6de3f610d4e49c3b0bef6477a47ff8110fa528b425c5c085b0ed3bca48e0cc7ae6c8e6c4c484d08526706ec6cb6fed7c38b9b37'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/engHtMVe/versions/ko25uOnM/novacore-1.20.1-1.0.0-build.3.jar'
+
+[update.modrinth]
+mod-id = 'engHtMVe'
+version = 'ko25uOnM'

@@ -1,0 +1,13 @@
+filename = 'PackagedAuto-1.20.1-3.4.4.16.jar'
+name = 'PackagedAuto'
+side = 'both'
+
+[download]
+hash = '98423fcc00c8462df985ffe5c8320d6cc3ef04d8755d5f787f48ee9406e3e5fff962e4f864fe1fc442af87ce4085647a7e03e0169051b25f81dde877a26f69f0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ugIdhQx4/versions/cuwDzAEv/PackagedAuto-1.20.1-3.4.4.16.jar'
+
+[update.modrinth]
+mod-id = 'ugIdhQx4'
+version = 'cuwDzAEv'

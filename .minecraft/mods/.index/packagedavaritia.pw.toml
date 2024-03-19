@@ -1,0 +1,13 @@
+filename = 'PackagedAvaritia-1.20.1-2.2.0.2.jar'
+name = 'PackagedAvaritia'
+side = 'both'
+
+[download]
+hash = '8bf9fb815d8d92e1d6dd94ae9ab52e4efe77f9981bfc2a39e4da8f38793db8c413a207602a917704d78e85f8e3dcc60cbb22f4f7a174987205340f6be2544211'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aA94MQL4/versions/h8HmR2E0/PackagedAvaritia-1.20.1-2.2.0.2.jar'
+
+[update.modrinth]
+mod-id = 'aA94MQL4'
+version = 'h8HmR2E0'

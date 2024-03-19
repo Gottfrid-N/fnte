@@ -1,0 +1,13 @@
+filename = 'redstone_arsenal-1.20.1-8.0.0.22.jar'
+name = 'Redstone Arsenal'
+side = 'both'
+
+[download]
+hash = '53c47279e526c87b3ff9bffd5bce623554f3524b3445bb1842a113ab4bdfd11d19e56a6ca41da969590107adf2c4e656590a63e914524434ff121c5e5947e63d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KfkTLdPl/versions/bRSXM243/redstone_arsenal-1.20.1-8.0.0.22.jar'
+
+[update.modrinth]
+mod-id = 'KfkTLdPl'
+version = 'bRSXM243'

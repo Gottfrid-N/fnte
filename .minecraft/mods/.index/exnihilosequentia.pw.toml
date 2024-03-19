@@ -1,0 +1,13 @@
+filename = 'exnihilosequentia-1.20.1-5.0.0-build.8.jar'
+name = 'Ex Nihilo: Sequentia'
+side = 'both'
+
+[download]
+hash = '34d496ad5736a433fef5815778320557f997e9fb6d26aa20297e4caac4b9e361adba398b4e507dd05304a3f4ad0a7cb9c00bbcbdf453d003accc69fa333bfaab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WhVa4xyw/versions/fKKQtX5B/exnihilosequentia-1.20.1-5.0.0-build.8.jar'
+
+[update.modrinth]
+mod-id = 'WhVa4xyw'
+version = 'fKKQtX5B'

@@ -1,0 +1,13 @@
+filename = 'FTBQLocalKeys-forge-1.0.0+1.20.1.jar'
+name = 'Re-FTBQLocalizationKeys'
+side = 'client'
+
+[download]
+hash = '6fc89ab7d35cac8279fc4264bce179d6806bbde7713aa49b12cbd0ff1d1bda03599be7798a8ced0b77683d16aa0b73104ebac3d643cc6e39ef68c9f82a399f02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ufGufJXn/versions/HAnUuieU/FTBQLocalKeys-forge-1.0.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ufGufJXn'
+version = 'HAnUuieU'

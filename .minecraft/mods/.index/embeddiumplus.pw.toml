@@ -1,0 +1,13 @@
+filename = 'embeddiumplus-1.20.1-v1.2.5.jar'
+name = 'Embeddium++'
+side = 'client'
+
+[download]
+hash = 'c72581273aee0e5b86a9e7d4a5dd30d4632ce28e46b30a14b8507a795c43665c58dfe61dbd5315578c91c19f1e470f28583ba89210e0b72cce5919dfe7e27a6f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yD9qW65f/versions/2Lih5fsH/embeddiumplus-1.20.1-v1.2.5.jar'
+
+[update.modrinth]
+mod-id = 'yD9qW65f'
+version = '2Lih5fsH'

@@ -1,0 +1,13 @@
+filename = 'SkyblockBuilder-1.20.1-5.0.13.jar'
+name = 'Skyblock Builder'
+side = 'both'
+
+[download]
+hash = '477feb62853f1b57c62c2d1b11a0e0551ea8fd6401d4766a573fa46a2ed9669eff2c5107ab974db777b4b33a0479f5185e76906cc8d74cdac7f60c59baebd6c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/por2AZc5/versions/cWa6uf7C/SkyblockBuilder-1.20.1-5.0.13.jar'
+
+[update.modrinth]
+mod-id = 'por2AZc5'
+version = 'cWa6uf7C'
